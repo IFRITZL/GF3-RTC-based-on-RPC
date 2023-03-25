@@ -25,7 +25,7 @@ pro Main_Program
   ;input
   xmlfile = SARdir + 'GF3_SAY_QPSI_016460_E118.3_N41.7_20190925_L1A_AHV_L10004266581.meta.xml'
   rpcfile = SARdir + 'GF3_SAY_QPSI_016460_E118.3_N41.7_20190925_L1A_HH_L10004266581.rpc'
-  demfile = 'D:\RPC_Code2Data\dem\dem.tif'
+  demfile = SARdir + 'dem.tif'
   ;output
   slcpar = SARdir + 'slc.par'
   gtc_lktable = SARdir + 'rpc_look_table.dat'
