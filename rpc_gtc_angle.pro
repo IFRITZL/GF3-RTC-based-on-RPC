@@ -71,7 +71,7 @@ pro rpc_gtc_angle,xmlfile,rpcfile,demfile,slcpar,gtc_lktable, psi_angle, locinc_
           spl_lin_arr(col1,row1) = complex(arr[0],arr[1])
         endif
 
-        if row1 mod 50 eq 0 and col1 mod 500 eq 0 then print,row1,col1,inCoor,OutCoor;,lon,lat,arr
+        if row1 mod 10 eq 0 and col1 mod 800 eq 0 then print,row1,col1,inCoor,OutCoor;,lon,lat,arr
     endfor
   endfor
   

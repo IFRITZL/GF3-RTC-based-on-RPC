@@ -35,5 +35,8 @@ Pro gtc_rpc,lktable,SARin,SARout,Mcol,Mrow
     if ss mod 300 eq 0 then print,ss
   endfor
   ENVI_WRITE_ENVI_FILE, outDat, out_name = SARout
-
+  SARout1 = strsplit(SARout,'.',/extract)
+  SARouthdr = SARout+'.hdr'
+  File_move,SARout1[0]+'.hdr',SARouthdr
+  
 end
