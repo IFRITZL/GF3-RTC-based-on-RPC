@@ -1,5 +1,7 @@
 ; GTC and RTC processing Based on RPC model.
-; v 1.0; 20230325;
+; IDL program.
+; v 1.0; 
+; 20230325;
 ; email: zhaolei@ifrit.ac.cn
 
 pro Main_Program
