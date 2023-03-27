@@ -3,5 +3,5 @@
 
 The above program supports radiometric terrain correction (RTC) processing of SAR data based on the rational polynomial coefficient (RPC) model. Based on the RPC file provided by GF3 satellite, users can use the code provided by us to implement geocoding of terrain correction (GTC) and RTC processing of SAR data without solving the RD positioning model. The above program is mainly IDL source code, with a small number of compiled executable files. Part of the executable program exe is derived from the well-known open source radar processing software PolSARpro.
 
-Produced by the Institute of Forest Resource Information Techniques, Chinese Academy of Forestry.
+Developed by the Institute of Forest Resource Information Techniques, Chinese Academy of Forestry.
 Lei Zhao (zhaolei@ifrit.ac.cn), Erxue Chen (chenerx@ifrit.ac.cn), Zengyuan Li (zengyuan.li@ifrit.ac.cn).
