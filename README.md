@@ -16,11 +16,11 @@ Description of individual procedures:
 
 “gf3_data_reader_for_polsarpro.sav”： Input the L1A level SLC product of GF3 satellite and output SAR data in PolSARpro file format (ENVI format). Taking full polarization SAR data as an example, the output is the S2 matrix directly available to PolSARpro.
 
-More details :https://mp.weixin.qq.com/s/zQH3lWOCUyuXSwwQ5_wWBA
+More details: https://mp.weixin.qq.com/s/zQH3lWOCUyuXSwwQ5_wWBA
 
-“GF3_PolSAR_PAR_Reader.exe”： Convert the metadata file (*.XML) of GF3's SAR data into the *.par format of Gamma software, and then use Gamma software to process GF3 data.
+“GF3_PolSAR_PAR_Reader.exe”： Convert the metadata file (*.XML) of GF3's SAR data into the *.par format of Gamma software, and then users can use Gamma software to process GF3 data.
 
-Mor details:https://mp.weixin.qq.com/s/-0VpLbxfeZGNM6H_WcQc8Q
+Mor details: https://mp.weixin.qq.com/s/-0VpLbxfeZGNM6H_WcQc8Q
 
 Developed by the Institute of Forest Resource Information Techniques, Chinese Academy of Forestry.
 Lei Zhao (zhaolei@ifrit.ac.cn), Erxue Chen (chenerx@ifrit.ac.cn), Zengyuan Li (zengyuan.li@ifrit.ac.cn).
