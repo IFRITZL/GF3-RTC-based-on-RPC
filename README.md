@@ -20,7 +20,7 @@ More details: https://mp.weixin.qq.com/s/zQH3lWOCUyuXSwwQ5_wWBA
 
 “GF3_PolSAR_PAR_Reader.exe”： Convert the metadata file (*.XML) of GF3's SAR data into the *.par format of Gamma software, and then users can use Gamma software to process GF3 data.
 
-Mor details: https://mp.weixin.qq.com/s/-0VpLbxfeZGNM6H_WcQc8Q
+More details: https://mp.weixin.qq.com/s/-0VpLbxfeZGNM6H_WcQc8Q
 
 # Developer
 Developed by the Institute of Forest Resource Information Techniques, Chinese Academy of Forestry.
