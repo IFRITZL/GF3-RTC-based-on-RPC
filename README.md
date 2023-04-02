@@ -25,3 +25,6 @@ More details: https://mp.weixin.qq.com/s/-0VpLbxfeZGNM6H_WcQc8Q
 # Developer
 Developed by the Institute of Forest Resource Information Techniques, Chinese Academy of Forestry.
 Lei Zhao (zhaolei@ifrit.ac.cn), Erxue Chen (chenerx@ifrit.ac.cn), Zengyuan Li (zengyuan.li@ifrit.ac.cn).
+
+# citation
+Zhao, L.; Chen, E.; Li, Z.; Fan, Y.; Xu, K. Radiometric Terrain Correction Method Based on RPC Model for Polarimetric SAR Data. Remote Sens. 2023, 15, 1909. https://doi.org/10.3390/rs15071909
