@@ -28,3 +28,5 @@ Lei Zhao (zhaolei@ifrit.ac.cn), Erxue Chen (chenerx@ifrit.ac.cn), Zengyuan Li (z
 
 # citation
 Zhao, L.; Chen, E.; Li, Z.; Fan, Y.; Xu, K. Radiometric Terrain Correction Method Based on RPC Model for Polarimetric SAR Data. Remote Sens. 2023, 15, 1909. https://doi.org/10.3390/rs15071909
+
+https://www.mdpi.com/2228380
